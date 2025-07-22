@@ -91,21 +91,3 @@ Analyze Netflix’s movie and TV show dataset using SQL in SQL Workbench to unco
 /README.md  
 /netflix_titles.csv
 ```
-
-## 12. 🧑‍💼 Author & Contact
-
-* **Author**: *Your Name*
-* **GitHub**: https://github.com/nileshbaithwar/Netflix_data_analyzed/edit/main/README.md
-* **Email**: [youremail@example.com](mailto:youremail@example.com)
-
----
-
-You can customize this: update sample queries, include visuals (e.g. bar charts from SQL tool outputs), and add specific findings from your dataset. Let me know if you want help refining any part!
-
-[1]: https://medium.com/%40arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-9a0fcf9724f2?utm_source=chatgpt.com "Netflix Data Analysis: A Deep Dive into Streaming Trends | by Arpita Deb | Medium"
-[2]: https://github.com/abhimanoj4423/Netflix-Data-Analysis-Using-SQL?utm_source=chatgpt.com "GitHub - abhimanoj4423/Netflix-Data-Analysis-Using-SQL: Conducted comprehensive analysis of Netflix's dataset using SQL to extract insights on content distribution by genre, release year, and region. Utilized advanced querying techniques to assess content trends, popularity, and regional availability, demonstrating strong SQL skills in data manipulation and business insight generation."
-[3]: https://www.bizopsanalytics.com/p/week-1-sql-foundations?utm_source=chatgpt.com "📅 Week 1: SQL Foundations"
-[4]: https://github.com/SriSurya-DA/netflix_analytics_sql?utm_source=chatgpt.com "GitHub - SriSurya-DA/netflix_analytics_sql: This project leverages SQL to perform a comprehensive analysis of Netflix's movies and TV shows dataset, with the goal of uncovering actionable insights and addressing critical business questions."
-[5]: https://readmedium.com/analysis-of-netflix-data-with-sql-95447b92f7d1?utm_source=chatgpt.com "Analysis of Netflix Data with SQL"
-[6]: https://readmedium.com/analysis-of-netflix-data-with-sql-41a41dcf13c6?utm_source=chatgpt.com "Analysis of Netflix Data with SQL"
-[7]: https://ionots.com/exploratory-data-analysis-guide-on-netflix-dataset/?utm_source=chatgpt.com "Exploratory Data Analysis guide on Netflix Dataset - Ionots"
