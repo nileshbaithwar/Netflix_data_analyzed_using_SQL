@@ -13,7 +13,7 @@ Analyze Netflix’s movie and TV show dataset using SQL in SQL Workbench to unco
 
 ## 3. 📦 Dataset
 
-* Source: Kaggle “Netflix Movies and TV Shows” (e.g., `netflix_titles.csv`)
+* Source: Kaggle “Netflix Movies and TV Shows” (e.g., `netflix_dataset.csv`)
 * Schema:
 
   ```sql
@@ -38,7 +38,7 @@ Analyze Netflix’s movie and TV show dataset using SQL in SQL Workbench to unco
 1. Open SQL Workbench
 2. Create and connect to a database
 3. Run the above `CREATE TABLE`
-4. Use `LOAD DATA LOCAL INFILE 'netflix_titles.csv' …` to import
+4. Use `LOAD DATA LOCAL INFILE 'netflix_dataset.csv' …` to import
 
 ## 5. 🧩 Data Cleaning
 
@@ -89,5 +89,5 @@ Analyze Netflix’s movie and TV show dataset using SQL in SQL Workbench to unco
   ├─ data_import.sql  -- import scripts  
   ├─ analysis_queries.sql  
 /README.md  
-/netflix_titles.csv
+/netflix_dataset.csv
 ```
